@@ -24,7 +24,7 @@
  **/
 
 #include "config.h"
-
+#include "include/endian.h"
 #if !defined(__GNUC__) || !__GNUC__
 #define __attribute__(x) /**/
 #endif
