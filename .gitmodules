@@ -1,0 +1,3 @@
+[submodule "kcollectd"]
+	path = kcollectd
+	url = https://github.com/ralic/kcollectd
